@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  
 ![hbenedek GitHub stats](https://github-readme-stats.vercel.app/api?username=hbenedek&show_icons=true&theme=radical)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbenedek&layout=compact&theme=radical)](https://github.com/hbenedek/github-readme-stats)
-
+</details>
 
