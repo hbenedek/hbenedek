@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ---
 <a href="https://github.com/hbenedek/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbenedek&repo=github-readme-stats" />
+  <img align="center" src=[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbenedek&layout=compact)]
+ />
 </a>
 <a href="https://github.com/hbenedek/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbenedek&repo=convoychat" />
