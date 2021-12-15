@@ -17,15 +17,16 @@ Here are some ideas to get you started:
 
 ---
 <details>
-  <summary>🛠️ Tools I use/summary>
-  <ul>
-  <li>Python</li>
-  <li>VS Code</li>
-  <li>Git</li>
-  <li>Scala</li>
-  <li>C++</li>
+  <summary>🛠️ Tools I use</summary>
+<ul>
+<li>Python</li>
+<li>VS Code</li>
+<li>Git</li>
+<li>Scala</li>
+<li>C++</li>
 </ul>
 </details>
+  
 <details>
   <summary>:zap: GitHub Stats</summary>
   
