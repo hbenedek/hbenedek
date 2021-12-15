@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm a Mathematician who is working on becoming a Data Scientist!
 
 <!--
 **hbenedek/hbenedek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
