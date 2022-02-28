@@ -7,10 +7,11 @@ My name is Ben, I am a Mathematician from Hungary. I learn Data Science and Fina
   <summary>🛠️ Tools I use</summary>
 <ul>
 <li>Python</li>
-<li>VS Code</li>
-<li>Git</li>
 <li>Scala</li>
 <li>C++</li>
+<li>SQL</li>
+<li>VS Code</li>
+<li>Git</li>
 </ul>
 </details>
   
