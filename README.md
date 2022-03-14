@@ -1,6 +1,6 @@
 ### Hi!
 
-My name is Ben, I am a Mathematician from Hungary. I learn Data Science and Financial Engineering in Lausanne (EPFL). I am interested in Machine Learning, Statistics, Probability Theory and Graph Theory. I do coding in Python, but i am currently learning C++ and Scala as well. In my freetime, I enjoy playing chess, reading books and hiking.
+My name is Ben, I am a Mathematician from Hungary. I learn Data Science and Financial Engineering in Lausanne (EPFL). I am interested in Machine Learning, Statistics, Probability Theory and Graph Theory. I do coding in Python, but I am currently learning C++, Scala and SQL as well. In my freetime, I enjoy playing chess, reading books and hiking.
 
 ---
 <details>
