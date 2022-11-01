@@ -10,6 +10,7 @@ Feel free to contact me at hben.0204[at]gmail.com
 <ul>
 <li>Python</li>
 <li>Scala</li>
+<li>R</li>
 <li>C++</li>
 <li>SQL</li>
 <li>VS Code</li>
