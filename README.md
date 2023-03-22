@@ -1,6 +1,6 @@
 ### Hi!
 
-My name is Ben, I am a data scientist from Hungary. I learn Data Science and Financial Engineering in Lausanne (EPFL). I am interested in Machine Learning, Statistics, Probability Theory and Graph Theory. I do coding in Python, but I am currently learning R, Scala and SQL as well. In my freetime, I enjoy playing chess, reading books and hiking.
+My name is Ben, I am Junior Machine Learning Engineer at Visium in Lausanne. I am interested in statistics, algorithms, time series and reinforcement learning. I do most of my work in Python, but currently I spent a lot of time fighting the compiler in Rust. In my freetime, I enjoy playing chess, reading books, and skiing.
 
 Feel free to contact me at hben.0204[at]gmail.com
 
