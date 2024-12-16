@@ -10,6 +10,6 @@ Feel free to contact me at hben.0204[at]gmail.com
   <summary>:zap: GitHub Stats</summary>
  
 ![hbenedek GitHub stats](https://github-readme-stats.vercel.app/api?username=hbenedek&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbenedek&layout=compact&theme=dark&hide=jupyter%20notebook,matlab,r,tex)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbenedek&layout=compact&theme=dark&hide=jupyter%20notebook,matlab,r,tex,html)
 </details>
 
