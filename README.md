@@ -1,8 +1,8 @@
 ### Hi!
 
-My name is Ben, I am a Machine Learning Engineer in Zurich. I am interested in recommender systems, algorithms, time series, reinforcement learning, and optimal transport. I do most of my work in Python. In my free time, I enjoy playing chess, reading books, and skiing.
+My name is Ben, I am a Data Scientist in Zurich. I am interested in recommender systems, algorithms, time series, reinforcement learning, and optimal transport. I do most of my work in Python. In my free time, I enjoy playing chess, reading books, running, and skiing.
 
-Feel free to contact me at hben.0204[at]gmail.com
+Feel free to contact me at benedek.harsanyi[at]protonmail.com
 
 ---
   
